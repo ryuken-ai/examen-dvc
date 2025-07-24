@@ -2,4 +2,4 @@ pandas
 scikit-learn
 matplotlib
 joblib
-dvc[gs]
+dvc[s3]
