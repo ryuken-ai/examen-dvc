@@ -1,7 +1,7 @@
 /venv
 /clean_data.csv
 
-data/processed/
+data/processed_data/
 /models/
 !src/models/
 metrics/
