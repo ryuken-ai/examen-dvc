@@ -2,7 +2,8 @@
 /clean_data.csv
 
 data/processed/
-models/
+/models/
+!src/models/
 metrics/
 
 /myenv
